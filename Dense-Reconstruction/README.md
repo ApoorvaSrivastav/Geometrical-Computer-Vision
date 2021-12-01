@@ -32,7 +32,7 @@ Reconstructed 3D Scene
 
 Input Scene Image   
 --------------------------
-![Input Scene Image](https://github.com/ApoorvaSrivastav/Geometrical-Computer-Vision/blob/master/Dense-Reconstruction/0000000461.png)
+![Input Scene Image](https://github.com/ApoorvaSrivastav/Geometrical-Computer-Vision/blob/master/Dense-Reconstruction/0000000475.png)
 
 
 
