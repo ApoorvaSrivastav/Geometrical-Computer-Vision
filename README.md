@@ -2,7 +2,7 @@
 This is a repository of all the assignments done by me in Mobile Robotics Course CSE-483 offered by IIIT Hyderabad.
 The repository contains:-  
 The Assignment Problem,The Corresponding Code,The Report for the same.    
-Assignment gave the exposure to the following:   
+Assignments gave the exposure to the following:   
 Epipolar Geometry   
 Triangulation    
 Camera Calibration    
